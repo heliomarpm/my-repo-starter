@@ -18,3 +18,9 @@ quote_type = single
 indent_style = tab
 max_line_length = off
 trim_trailing_whitespace = false
+
+{*,{yml,yaml,cff}}
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = false
